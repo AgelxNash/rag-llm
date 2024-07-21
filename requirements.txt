@@ -1,0 +1,7 @@
+atlassian-python-api==3.41.14
+beautifulsoup4==4.12.3
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-core==0.2.21
+python-dotenv==1.0.1
+yandex-chain==0.0.8
