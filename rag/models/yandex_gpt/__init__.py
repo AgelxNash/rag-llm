@@ -1,0 +1,1 @@
+from .YandexEmbeddings import YandexEmbeddings
